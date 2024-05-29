@@ -1,6 +1,6 @@
 # Face Recognition
  
-his Python script facilitates the collection of images from a webcam and performs data augmentation for training purposes. It captures images from a webcam, saves them, and then applies various augmentation techniques to generate augmented images and corresponding annotations for training machine learning models, specifically a FaceTracker model in this case.
+This Python script facilitates the collection of images from a webcam and performs data augmentation for training purposes. It captures images from a webcam, saves them, and then applies various augmentation techniques to generate augmented images and corresponding annotations for training machine learning models, specifically a FaceTracker model in this case.
 
 Features
 Webcam Image Collection: Captures a specified number of images from the webcam and saves them to a specified directory.
